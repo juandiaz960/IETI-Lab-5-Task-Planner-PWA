@@ -1,4 +1,4 @@
-# LAB04 IETI Task Planner Part 2
+# LAB05 IETI Task Planner PWA
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
