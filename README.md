@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * **JUAN SEBASTIÁN DÍAZ SALAMANCA** - [juandiaz960](https://github.com/juandiaz960)
 
+## Firebase
+
+* **Console**: https://console.firebase.google.com/project/task-planner-app-jsds/overview
+
 ## Login
 
 
